@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00c60f6d-9339-416f-a7fa-f9549d01d417" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questionme.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/questionme/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/questionme/controller/BaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/questionme/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/questionme/controller/viewobject/UserVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/questionme/error/BusinessException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/questionme/error/CommonError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/questionme/error/EmBusinessError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/questionme/response/CommonReturnType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/questionme/service/HttpClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/questionme/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/questionme/service/impl/HttpClientServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/questionme/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/questionme/service/model/UserModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/questionme/validator/ValidationResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/questionme/validator/ValidatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-generator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/questionme/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/questionme/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/questionme/AppTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k5sT0PJ0c7NVKbHB7GirlCPO9v" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.questionme.App" />
+      <module name="questionme" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.questionme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="mybatis-generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="Maven.mybatis-generator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00c60f6d-9339-416f-a7fa-f9549d01d417" name="Default Changelist" comment="" />
+      <created>1605001790381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605001790381</updated>
+      <workItem from="1605001797295" duration="7187000" />
+      <workItem from="1605189174055" duration="1827000" />
+      <workItem from="1607154510181" duration="15577000" />
+      <workItem from="1607233644612" duration="12255000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="295" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1605006835212">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="295" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1080/-1080.0.864.1536@0.0.1920.1080" timestamp="1605006835212" />
+    <state x="414" y="195" width="1092" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605004956026">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="195" width="1092" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-1080.0.864.1536@0.0.1920.1080" timestamp="1605004956026" />
+    <state x="765" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1607235699328">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="224" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1080.0.864.1536@0.0.1920.1080" timestamp="1607235699328" />
+    <state x="690" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607161383843">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1080.0.864.1536@0.0.1920.1080" timestamp="1607161383843" />
+    <state x="740" y="305" key="FileChooserDialogImpl" timestamp="1605004856112">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="305" key="FileChooserDialogImpl/0.0.1920.1080/-1080.0.864.1536@0.0.1920.1080" timestamp="1605004856112" />
+    <state x="716" y="407" key="Github.CreatePullRequestDialog" timestamp="1607154552369">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="716" y="407" key="Github.CreatePullRequestDialog/0.0.1920.1080/-1080.0.864.1536@0.0.1920.1080" timestamp="1607154552369" />
+    <state x="824" y="434" width="273" height="212" key="Github.ShareDialog" timestamp="1607263572665">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="824" y="434" width="273" height="212" key="Github.ShareDialog/0.0.1920.1080/-1080.0.864.1536@0.0.1920.1080" timestamp="1607263572665" />
+    <state width="1877" height="287" key="GridCell.Tab.0.bottom" timestamp="1607255507896">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1080.0.864.1536@0.0.1920.1080" timestamp="1607255507896" />
+    <state width="1877" height="287" key="GridCell.Tab.0.center" timestamp="1607255507896">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="287" key="GridCell.Tab.0.center/0.0.1920.1080/-1080.0.864.1536@0.0.1920.1080" timestamp="1607255507896" />
+    <state width="1877" height="287" key="GridCell.Tab.0.left" timestamp="1607255507896">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="287" key="GridCell.Tab.0.left/0.0.1920.1080/-1080.0.864.1536@0.0.1920.1080" timestamp="1607255507896" />
+    <state width="1877" height="287" key="GridCell.Tab.0.right" timestamp="1607255507896">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="287" key="GridCell.Tab.0.right/0.0.1920.1080/-1080.0.864.1536@0.0.1920.1080" timestamp="1607255507896" />
+    <state width="1877" height="354" key="GridCell.Tab.1.bottom" timestamp="1607249632304">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1080.0.864.1536@0.0.1920.1080" timestamp="1607249632304" />
+    <state width="1877" height="354" key="GridCell.Tab.1.center" timestamp="1607249632304">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.1.center/0.0.1920.1080/-1080.0.864.1536@0.0.1920.1080" timestamp="1607249632304" />
+    <state width="1877" height="354" key="GridCell.Tab.1.left" timestamp="1607249632303">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.1.left/0.0.1920.1080/-1080.0.864.1536@0.0.1920.1080" timestamp="1607249632303" />
+    <state width="1877" height="354" key="GridCell.Tab.1.right" timestamp="1607249632304">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.1.right/0.0.1920.1080/-1080.0.864.1536@0.0.1920.1080" timestamp="1607249632304" />
+    <state x="490" y="195" key="Maven.ArtifactSearchDialog" timestamp="1607157050763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="490" y="195" key="Maven.ArtifactSearchDialog/0.0.1920.1080/-1080.0.864.1536@0.0.1920.1080" timestamp="1607157050763" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1607263132229">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="182" key="SettingsEditor/0.0.1920.1080/-1080.0.864.1536@0.0.1920.1080" timestamp="1607263132229" />
+    <state x="640" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1607233648874">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="640" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1080.0.864.1536@0.0.1920.1080" timestamp="1607233648874" />
+    <state x="752" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607263583554">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="752" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/-1080.0.864.1536@0.0.1920.1080" timestamp="1607263583554" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1607168809413">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1080.0.864.1536@0.0.1920.1080" timestamp="1607168809413" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/questionme/controller/UserController.java</url>
+          <line>213</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
